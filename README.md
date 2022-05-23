@@ -72,3 +72,6 @@ https://www.asus.com/tw/support/FAQ/1044329/   input
 https://zhuanlan.zhihu.com/p/45025702    
 
 https://digitalcloud.dell.com/#/home   GPU resource
+
+
+https://github.com/bhattbhavesh91/table-question-answering-demo/blob/main/table-qa-pipeline.ipynb
