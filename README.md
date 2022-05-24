@@ -75,3 +75,5 @@ https://digitalcloud.dell.com/#/home   GPU resource
 
 
 https://github.com/bhattbhavesh91/table-question-answering-demo/blob/main/table-qa-pipeline.ipynb
+
+https://colab.research.google.com/github/google-research/tapas/blob/master/notebooks/sqa_predictions.ipynb #tapas colab test
