@@ -72,3 +72,4 @@ https://digitalcloud.dell.com/#/home   GPU resource
 
 
 https://pandoacademies.com/UI/Learner/LearnerILPDashboard.aspx#
+https://jira.cec.lab.emc.com/secure/RapidBoard.jspa?rapidView=7661&projectKey=KARMAN
