@@ -67,13 +67,8 @@ https://eos2git.cec.lab.emc.com/Sylvia-Wang4/SemanticParsing
 https://eos2git.cec.lab.emc.com/Clarity360 No public
 https://eos2git.cec.lab.emc.com/Nick-Qiu/Detection_model_as_service
 ssh root@10.199.196.34  Password123!
-https://www.asus.com/tw/support/FAQ/1044329/   input
-
 https://zhuanlan.zhihu.com/p/45025702    
-
 https://digitalcloud.dell.com/#/home   GPU resource
 
 
-https://github.com/bhattbhavesh91/table-question-answering-demo/blob/main/table-qa-pipeline.ipynb
-
-https://colab.research.google.com/github/google-research/tapas/blob/master/notebooks/sqa_predictions.ipynb #tapas colab test
+https://pandoacademies.com/UI/Learner/LearnerILPDashboard.aspx#
