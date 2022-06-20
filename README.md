@@ -63,15 +63,23 @@ PS:如果模型的参数服从的不是高斯分布，如果是拉普拉斯分�
 下一期讲你见过的机器学习模型中，哪些模型是频率派做法，哪些模型又是贝叶斯派做法。这些频率派模型当中，它们的损失函数为什么要这么设计；贝叶斯派做法当中，它们又是如何引入先验分布的，它们为什么引入这样的先验分布。    
 
 https://confluence.cec.lab.emc.com/display/FOIT/Sprint+Goals
+
 https://eos2git.cec.lab.emc.com/Sylvia-Wang4/SemanticParsing
+
 https://eos2git.cec.lab.emc.com/Clarity360 No public
+
 https://eos2git.cec.lab.emc.com/Nick-Qiu/Detection_model_as_service
+
 ssh root@10.199.196.34  Password123!
-https://zhuanlan.zhihu.com/p/45025702    
+10.199.194.9:/root/movement/nick/pro/sherlock_data   root  Password123!
+10.199.199.175   16G 内存， 还有70G左右的空间；都是个人自己去CEC上申请的VM资源，申请了之后，可以自己装需要的服务，类似aws vm
+
+https://zhuanlan.zhihu.com/p/45025702    CentOS 配置SSH免密码登录
+
 https://digitalcloud.dell.com/#/home   GPU resource
 
+https://pandoacademies.com/UI/Learner/LearnerILPDashboard.aspx# 修完软技能课程
 
-https://pandoacademies.com/UI/Learner/LearnerILPDashboard.aspx#
 https://jira.cec.lab.emc.com/secure/RapidBoard.jspa?rapidView=7661&projectKey=KARMAN
 
 
